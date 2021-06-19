@@ -9,6 +9,11 @@ I'm **Frank Wu**
 - 🔭 Amateur Projects:-->  
 [南科大Tis系统抢课脚本](https://github.com/GhostFrankWu/SUSTech_Tools/tree/main/tis%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC)  | [Graduate_Map-蹭饭地图生成器](https://www.bilibili.com/video/BV15h411d7Cf/)    
 
+# 请我喝咖啡  
+| 支付宝 | 微信 | 收钱吧 | 
+| :----: | :--: | :----: |
+| ![](https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/alipay.png) | ![](https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/wechat.png) | ![](https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/bar.png) |
+
 - Interested about Web security & System security , attend CTF sometime (Despite the my code is not safe either  
 <!-- - 📫 More about me: [Home_Page](http://106.52.237.196/)  
 ### 
