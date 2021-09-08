@@ -7,7 +7,7 @@ I'm **Frank Wu**
 - 🔭 Semester Projects (Full Score):-->  
 [Chess_Soul-CS102A-javaA-象棋](https://github.com/GhostFrankWu/SUSTech_CS102A_Project_2019Froject_2019F) | [Vending_Machine-CS207-数理逻辑-售货机](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f) | [Minner-CS202-计组-fpga挖矿](https://github.com/GhostFrankWu/CS202_CPU_Project)    
 - 🔭 Amateur Projects:-->  
-[南科大Tis系统抢课脚本](https://github.com/GhostFrankWu/SUSTech_Tools/tree/main/tis%E9%80%89%E8%AF%BE%E8%84%9A%E6%9C%AC)  | [Graduate_Map-蹭饭地图生成器](https://github.com/GhostFrankWu/JavaSwing-auto_generate_map-Frmeal)\[[B站视频](https://www.bilibili.com/video/BV15h411d7Cf/)]    
+[南科大Tis系统抢课脚本](https://github.com/GhostFrankWu/SUSTech_Tools)  | [Graduate_Map-蹭饭地图生成器](https://github.com/GhostFrankWu/JavaSwing-auto_generate_map-Frmeal)\[[B站视频](https://www.bilibili.com/video/BV15h411d7Cf/)]    
 
 # 请我喝咖啡☕️  
 | 支付宝 | 微信 | 收钱吧 | 
