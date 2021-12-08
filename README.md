@@ -11,7 +11,7 @@
     - [【计组-fpga挖矿】Minner-CS202](https://github.com/GhostFrankWu/CS202_CPU_Project)    
 + Amateur Projects:
     - [【抢课脚本】南科大Tis系统抢课脚本](https://github.com/GhostFrankWu/SUSTech_Tools)  
-    - [【毕业蹭饭地图生成器】JavaSwing Graduate_Map](https://github.com/GhostFrankWu/JavaSwing-auto_generate_map-Frmeal)\[[B站视频](https://www.bilibili.com/video/BV15h411d7Cf/)]    
+    - [【毕业蹭饭地图生成器】Swing Graduate_Map](https://github.com/GhostFrankWu/JavaSwing-auto_generate_map-Frmeal)\[[B站视频](https://www.bilibili.com/video/BV15h411d7Cf/)]    
 
 + Notes:  
     - [【wp】WriteUps for CTF](https://github.com/GhostFrankWu/WriteUps) 
@@ -20,7 +20,7 @@
   
 I'm interested about System Security & Binary Exploitation , attend CTF sometime (Despite part of my code is not safe either  
 ### 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ghostfrankwu&show_icons=true&line_height=33&count_private=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats) 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ghostfrankwu&show_icons=true&line_height=33&count_private=true&theme=solarized-light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
