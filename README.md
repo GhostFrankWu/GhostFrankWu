@@ -6,7 +6,7 @@
 南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU](https://sust.icu/)   
 
 + Semester Projects (Full Score):
-    - [【javaA-象棋】Chess_Soul-CS102A](https://github.com/GhostFrankWu/SUSTech_CS102A_Project_2019Froject_2019F) 
+    <!-- [【javaA-象棋】Chess_Soul-CS102A](https://github.com/GhostFrankWu/SUSTech_CS102A_Project_2019Froject_2019F) -->  
     - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
     - [【计组-fpga挖矿】Minner-CS202](https://github.com/GhostFrankWu/CS202_CPU_Project)    
 + Amateur Projects:
