@@ -6,9 +6,9 @@
 南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU](https://sust.icu/)   
 
 + Semester Projects (Full Score):
-    <!-- [【javaA-象棋】Chess_Soul-CS102A](https://github.com/GhostFrankWu/SUSTech_CS102A_Project_2019Froject_2019F) -->  
     - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
     - [【计组-fpga挖矿】Minner-CS202](https://github.com/GhostFrankWu/CS202_CPU_Project)    
+    - 【javaA-象棋】Chess_Soul-CS102A
 + Amateur Projects:
     - [【抢课脚本】南科大Tis系统抢课脚本](https://github.com/GhostFrankWu/SUSTech_Tools)  
     - [【毕业蹭饭地图生成器】Swing Graduate_Map](https://github.com/GhostFrankWu/JavaSwing-auto_generate_map-Frmeal)\[[B站视频](https://www.bilibili.com/video/BV15h411d7Cf/)]    
