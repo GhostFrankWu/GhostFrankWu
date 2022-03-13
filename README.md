@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/Akko_kagari_by_chuunie-dbtty24.webp' width='410px'>
+<img align='right' src='https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/Akko_kagari_by_chuunie-dbtty24.webp' width='400px'>  
 
 ### Hi there, I'm **Frank Wu**  
 
@@ -18,9 +18,9 @@
 
 
   
-I'm interested about System Security & Binary Exploitation , attend CTF sometime (Despite part of my code is not safe either  
+I'm interested about System Security & Binary Exploitation, attend CTF sometime (Despite part of my code is not safe either  
   
-Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://ctftime.org/team/157891) in [【COMPASS Lab】(机器人可以看到校队讨论群)](http://compass.sustech.edu.cn/)  
+Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://ctftime.org/team/157891) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
   
 ### 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ghostfrankwu&show_icons=true&line_height=33&count_private=true&theme=solarized-light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
