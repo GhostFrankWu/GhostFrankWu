@@ -4,6 +4,8 @@
 
 🌱 Sophomore [@SUSTech](https://www.sustech.edu.cn/)  
 南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU](https://sust.icu/)   
+🔑 GPG Key: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
+<!--💻 place holder-->   
 
 + Semester Projects (Full Score):
     - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
@@ -18,7 +20,7 @@
 
 
   
-I'm interested about System Security & Binary Exploitation, attend CTF sometime (Despite part of my code is not safe either  
+I'm interested about System Security & Binary Exploitation  
   
 Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://ctftime.org/team/157891) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
   
