@@ -9,7 +9,7 @@
 
 + Semester Projects (Full Score):
     - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
-    - [【计组-fpga挖矿】Minner-CS202](https://github.com/GhostFrankWu/CS202_CPU_Project)    
+    - [【计组-fpga挖矿】Minner-CS202](https://github.com/lkpengcs/CS202_CPU_Project)
     - 【javaA-象棋】Chess_Soul-CS102A
 + Amateur Projects:
     - [【抢课脚本】南科大Tis系统抢课脚本](https://github.com/GhostFrankWu/SUSTech_Tools)  
