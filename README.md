@@ -3,7 +3,7 @@
 ### Hi there, I'm **Frank Wu**  
 
 🌱 Sophomore [@SUSTech](https://www.sustech.edu.cn/)  
-南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU](https://sust.icu/)   
+南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU(temporary down)](https://sust.icu/)   
 🔑 GPG Key: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
 <!--💻 -->   
 
@@ -22,7 +22,7 @@
   
 I'm interested about System Security & Binary Exploitation  
   
-Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://ctftime.org/team/157891) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
+Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
   
 ### 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ghostfrankwu&show_icons=true&line_height=33&count_private=true&theme=solarized-light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
