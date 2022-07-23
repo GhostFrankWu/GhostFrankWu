@@ -22,6 +22,7 @@
 
   
 I'm interested about System Security & Binary Exploitation  
+Currently exploring fuzzing & symbolic execution  
   
 Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
   
