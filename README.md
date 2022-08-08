@@ -2,7 +2,7 @@
 
 ### Hi there, I'm **Frank Wu**  
 
-🌱 Sophomore [@SUSTech](https://www.sustech.edu.cn/)  
+🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/)  
 南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU(temporary down)](https://sust.icu/)   
 🔑 GPG Key: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
 <!--💻 -->   
