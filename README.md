@@ -2,10 +2,12 @@
 
 ### Hi there, I'm **Frank Wu**  
 
-🌱 Junior UG [@SUSTech](https://www.sustech.edu.cn/)  
-南小科，嘿嘿嘿 我的南小科🤤 --> [SUSTech ICU(temporary down)](https://sust.icu/)   
-🔑 GPG Key: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
-<!--💻 -->   
+🏫 Junior UG [@SUSTech](https://www.sustech.edu.cn/)  
+✨ I'm interested about Reverse & Binary Exploitation & APT    
+💻 Currently exploring System Security & Concolic execution in [【Teecert Lab】](https://teecertlabs.com/)   
+🔑 GPG ID: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
+
+Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
 
 + Semester Projects (Full Score):
     - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
@@ -18,21 +20,18 @@
 
 + Notes:  
     - [【wp】WriteUps for CTF](https://github.com/GhostFrankWu/WriteUps) 
-
-
   
-I'm interested about System Security & Binary Exploitation  
-Currently exploring fuzzing & symbolic execution  
   
-Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
-  
-### 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ghostfrankwu&show_icons=true&line_height=33&count_private=true&theme=solarized-light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+<details>
+<summary>请我喝咖啡☕️</summary>
 
-
-<!--
-# 请我喝咖啡☕️  
 | 支付宝 | 微信 | 收钱吧 | 
 | :----: | :--: | :----: |
 | ![](https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/alipay.png) | ![](https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/wechat.png) | ![](https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/bar.png) |
- - 📫 More about me: [Home_Page]()  -->
+
+</details>
+
+### 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ghostfrankwu&show_icons=true&line_height=33&count_private=true&theme=solarized-light&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
+
