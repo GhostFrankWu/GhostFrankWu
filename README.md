@@ -2,14 +2,14 @@
 
 ### Hi there, I'm **Frank Wu**  
 
-🏫 Junior UG [@SUSTech](https://www.sustech.edu.cn/)  
+🏫 Senior UG [@SUSTech](https://www.sustech.edu.cn/)  
 ✨ I'm interested about Reverse & Binary Exploitation & APT    
 💻 Currently exploring System Security & Concolic execution in [【Teecert Lab】](https://teecertlabs.com/)   
 🔑 GPG ID: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
 
 Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/)  
 
-+ Semester Projects (Full Score):
++ Selected Semester Projects:
     - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
     - [【计组-MIPS挖矿】Minner-CS202](https://github.com/lkpengcs/CS202_CPU_Project)
     - [【计组-RV32挖矿】RV32ia-CS202](https://github.com/Trust04zh/riscv_cpu)
