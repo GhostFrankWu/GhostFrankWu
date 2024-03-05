@@ -7,21 +7,20 @@
 💻 Currently exploring System Security & Program Analysis in [【Teecert Lab】](https://teecertlabs.com/)   
 🔑 GPG ID: `F3361E0E712472BB01957DFBC252135B3B91FF1D`  
 
-Aka **Frankss**, troop-leader of [【COMPASS CTF Team】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/). Hack with [【S1uM4i】](https://www.s1um4i.com/).   
+Aka **Frankss**, leader of [【COMPASS CTF】](https://wiki.compass.college/) in [【COMPASS Lab】](http://compass.sustech.edu.cn/). Hack with [【S1uM4i】](https://www.s1um4i.com/).   
 
-+ Selected Semester Projects:
-    - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
-    - [【计组-MIPS挖矿】Minner-CS202](https://github.com/lkpengcs/CS202_CPU_Project)
-    - [【计组-RV32挖矿】RV32ia-CS202](https://github.com/Trust04zh/riscv_cpu)
-    - [【javaA-象棋】Chess_Soul-CS102A](https://github.com/GhostFrankWu/SUSTech_CS102A_Project_2019Froject_2019F)
 + Amateur Projects:
     - [【抢课脚本】南科大Tis系统选课脚本](https://github.com/GhostFrankWu/SUSTech_Tools)  
     - [【毕业蹭饭地图生成器】Swing Graduate_Map](https://github.com/GhostFrankWu/JavaSwing-auto_generate_map-Frmeal)\[[B站视频](https://www.bilibili.com/video/BV15h411d7Cf/)]    
 
 + Notes:  
     - [【wp】WriteUps for CTF](https://github.com/GhostFrankWu/WriteUps) 
-  
-  
+    - [【wp】CS315-计算机安全 通关指南](https://github.com/GhostFrankWu/CS315-ComputerSecurity)
++ Some Semester Projects:
+    - [【数理逻辑-售货机】Vending_Machine-CS207](https://github.com/GhostFrankWu/SUSTech_CS207_Final-Project_2020f)
+    - [【计组-MIPS挖矿】Minner-CS202](https://github.com/lkpengcs/CS202_CPU_Project)
+    - [【计组-RV32挖矿】RV32ia-CS202](https://github.com/Trust04zh/riscv_cpu)
+    - [【javaA-象棋】Chess_Soul-CS102A](https://github.com/GhostFrankWu/SUSTech_CS102A_Project_2019Froject_2019F) 
  
 <details>
 <summary>请我喝咖啡☕️</summary>
