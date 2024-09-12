@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/Akko_kagari_by_chuunie-dbtty24.gif' width='400px'>  
+<img align='right' src='https://github.com/GhostFrankWu/GhostFrankWu/blob/master/img/Akko_kagari_by_chuunie-dbtty24.webp' width='400px'>  
 
 ### Hi there, I'm **Frank Wu**  
 
