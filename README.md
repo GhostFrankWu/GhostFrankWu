@@ -2,16 +2,15 @@
 
 ### Hi there, I'm [**Frank Wu**](https://ghostfrankwu.github.io/about/)  
 
-🏫 First year PhD student [@UCR](https://ucr.edu/), advised by [Prof. Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/index.html).  
-💻 Currently exploring System Security & Program Analysis in [[UCR Security Lab]](https://github.com/seclab-ucr)   
+🏫 First year PhD student [@UCR](https://ucr.edu/), advised by [Prof. Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/index.html).   
+📚 Bachelor at [@SUSTech](https://www.sustech.edu.cn/), advised by [Prof. Yinqian Zhang](https://yinqian.org/).  
+💻 Exploring System Security & Program Analysis in [[UCR Sec Lab]](https://github.com/seclab-ucr)   
 ✨ I'm interested about Automation & Reverse Engineering & Binary Exploitation & APT Things    
 🔑 GPG ID: `F3361E0E712472BB01957DFBC252135B3B91FF1D`    
 
 Hack with [S1uM4i](https://www.s1um4i.com/) and [r3kapig](https://r3kapig.com/) for fun.   
 Aka **Frankss**, former leader of [COMPASS CTF](https://blog.compassc.tf/) in [COMPASS Lab](http://compass.sustech.edu.cn/).    
 
->🏫 Bachelor at [@SUSTech](https://www.sustech.edu.cn/)  
-> In [[Teecert Lab]](https://teecertlabs.com/), advised by [Prof. Yinqian Zhang](https://yinqian.org/).  
 
 + Notes:  
     - [【wp】WriteUps for CTF](https://github.com/GhostFrankWu/WriteUps) 
